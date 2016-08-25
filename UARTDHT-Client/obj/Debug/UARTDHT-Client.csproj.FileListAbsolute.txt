@@ -1,0 +1,9 @@
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\bin\Debug\UARTDHT-Client.exe.config
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Debug\UARTDHT-Client.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Debug\UARTDHT_Client.Form1.resources
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Debug\UARTDHT-Client.csproj.GenerateResource.Cache
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\bin\Debug\UARTDHT-Client.exe
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\bin\Debug\UARTDHT-Client.pdb
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Debug\UARTDHT-Client.exe
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Debug\UARTDHT-Client.pdb
+D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Debug\UARTDHT_Client.Properties.Resources.resources
