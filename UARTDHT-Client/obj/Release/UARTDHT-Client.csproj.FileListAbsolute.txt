@@ -1,8 +1,0 @@
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\bin\Release\UARTDHT-Client.exe.config
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\bin\Release\UARTDHT-Client.exe
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\bin\Release\UARTDHT-Client.pdb
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Release\UARTDHT_Client.Form1.resources
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Release\UARTDHT_Client.Properties.Resources.resources
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Release\UARTDHT-Client.csproj.GenerateResource.Cache
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Release\UARTDHT-Client.exe
-D:\YandexDisk\Projects\Visual Studio 2012\UARTDHT-Client\UARTDHT-Client\obj\Release\UARTDHT-Client.pdb
